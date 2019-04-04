@@ -9,3 +9,8 @@ This app is currenlty in dev.
 
 **features**
 The expected behavior is a tree display (that might overflow its area) of a fraction of the EML structure. By clicking on a *node* the app will show a path valid within the displayed tree. By clicking on a *leaf* the app will show a path valid within the Full EML schema tree ("shinyApp/guidelines/SystemGuidelineList.RData").
+
+**dependencies**
+Packages R:
+- shiny
+- shinyTree
